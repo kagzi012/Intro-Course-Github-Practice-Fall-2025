@@ -1,4 +1,4 @@
-Name:
-Major:
-Year:
-Favorite thing about robotics (so far):
+Name:Ayaan Kagzi
+Major:SCM&HCM
+Year:3
+Favorite thing about robotics (so far):CAD
